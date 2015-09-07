@@ -1,0 +1,4 @@
+E:\bin\Mods\Allocs_CommonFunc\ModInfo.xml
+E:\bin\Mods\Allocs_CommonFunc\7dtd-server-fixes.dll
+E:\ServerFix\obj\Release\7dtd-server-fixes.csprojResolveAssemblyReference.cache
+E:\ServerFix\obj\Release\7dtd-server-fixes.dll

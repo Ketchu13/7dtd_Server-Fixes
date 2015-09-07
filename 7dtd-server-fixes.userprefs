@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="7dtd-server-fixes.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src\PersistentData\Player.cs">
+    <Files>
+      <File FileName="src\AllocsLogFunctions.cs" Line="1" Column="1" />
+      <File FileName="src\PersistentData\PersistentContainer.cs" Line="1" Column="1" />
+      <File FileName="src\ChatHookExample.cs" Line="41" Column="19" />
+      <File FileName="src\API.cs" Line="1" Column="1" />
+      <File FileName="src\ItemList.cs" Line="1" Column="1" />
+      <File FileName="src\PersistentData\Player.cs" Line="73" Column="59" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
